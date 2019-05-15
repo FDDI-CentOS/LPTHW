@@ -1,2 +1,1 @@
-# LPTHW
-LPTHW
+# Python
